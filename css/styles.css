@@ -1,0 +1,150 @@
+.top{
+  background-color:#39A9CB;
+}
+body{
+margin:0px;
+text-align: center;
+font-family: sans-serif;
+}
+h1{
+  margin:0;
+  padding-top: 50px;
+  font-size: 70px;
+  color:#0D335D;
+
+
+}
+.top-cloud{
+  position: absolute;
+  top:40px;
+  right:100px;
+
+}
+.bottom-cloud{
+  position:absolute;
+  left:200px;
+
+}
+.sun{
+  position:absolute;
+  top:200px;
+  right:100px;
+  height:100px;
+
+}
+.dp{
+  border-radius: 50%;
+  height: 250px;
+  margin-top: 50px;
+}
+.middle{
+  margin:0;
+  background-color: #628395;
+
+}
+.skills{
+
+  background-color: #628395;
+  margin:0;
+}
+
+
+h2{
+  font-size: 40px;
+  font-weight:high;
+  color:#0D335D;
+}
+h3{
+  color:#0D335D;
+  font-size: 25px;
+  font-weight:high;
+}
+.skill-img{
+  width:10%;
+}
+.anime-img{
+  width:9%;
+}
+/*.skill-img{
+  position:absolute;
+  left: 330px;
+  float:left;
+  width:10%;
+  top:1290px;
+
+}
+.anime-img{
+  position:absolute;
+  right:520px;
+  top:1460px;
+  float:right;
+  width:9%;
+
+}*/
+.btn{
+padding-top: 20px;
+padding-bottom: 20px;
+line-height: 80px;
+
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #0D335D);
+  background-image: -moz-linear-gradient(top, #3498db, #0D335D);
+  background-image: -ms-linear-gradient(top, #3498db, #0D335D);
+  background-image: -o-linear-gradient(top, #3498db, #0D335D);
+  background-image: linear-gradient(to bottom, #3498db, #0D335D);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+
+}
+
+
+hr{
+  border:dotted #0D335D 6px;
+  width:4%;
+  border-bottom:none;
+
+  margin-top:100px;
+  margin-bottom:100px;
+}
+
+.bottom{
+  background-color:#0D335D;
+  padding-top:50px;
+
+  padding-bottom: 20px;
+
+}
+a{
+  color: white;
+
+  font-size: 20px;
+
+
+  margin-top:10px;
+  margin-left:50px;
+  margin-bottom: 50px;
+  text-decoration: none;
+}
+a:hover{
+  font-size:25px;
+}
+h4{
+  color:white;
+  font-size: 18px;
+}
